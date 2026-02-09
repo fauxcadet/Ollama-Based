@@ -1,8 +1,6 @@
 # Ollama Unleashed: Ollama based Next-Gen Secure IVRS powered by Ollama, RAG, Sentiment analysis, Guardrails
 
-# YouTube video link : https://youtu.be/NMJUvWiH8gc
 
-<img width="1536" height="1024" alt="Thumbnail" src="https://github.com/user-attachments/assets/892fb6a6-9665-4759-96c9-de777b3556a6" />
 
 Ollama AI model assisted mechanism suitable for IVRS (banking domain)
 
@@ -106,13 +104,13 @@ Speak_to_Customer_Support_Agent = ["CONNECT_GENERAL_SUPPORT","CONNECT_LOAN_DEPT"
 
 
 # Steps
-As explained in above YouTube video, install Ollama (Windows/ Linux), get the API key
+get the API key
 
 Store the key in ollama_api_key_file.txt
 
 Download cloud AI model using : ollama run gpt-oss:120b-cloud
 
-git clone https://github.com/imademethink/Ollama_Based_IVRS.git
+git clone 
 
 cd Ollama_Based_IVRS-main
 
