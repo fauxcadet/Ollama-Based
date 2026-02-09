@@ -110,7 +110,7 @@ Store the key in ollama_api_key_file.txt
 
 Download cloud AI model using : ollama run gpt-oss:120b-cloud
 
-git clone 
+git clone https://github.com/fauxcadet/Ollama-Based.git
 
 cd Ollama_Based_IVRS-main
 
